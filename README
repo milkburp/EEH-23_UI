@@ -1,0 +1,3 @@
+This project is for the development of a temporary software package which will be used with the EEH-23 project.
+This temporary software will serve to provide a means to adjust the extraction fan set-points, the response to a temperature switch, and the response to a fire input.
+MUA enabling and commanding will not be a focal point of this code project
